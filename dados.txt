@@ -1,12 +1,10 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Rafael Pegoretti
+-Profissão: Analista QA
+-Cidade: Curitiba
+-O que faz nas horas vaga: Jogo MMORPG ou boardgames, bebos e bato papo com amigos
+-Feedback sobre o curso Qualidade de Software: Curso está sendo muito bom, vários conteúdos novos e bons e um retorno sobre dúvidas e trabalhos sempre muito rápidos.
+-Feedback sobre a plataforma de estudo da EBAC: Boa plataforma, só sinto falta de ter uma feature de começar a próxima aula automaticamente e manter a velocidade do video que estava anteriormente ex: (manter a velocidade de reprodução em 2x)
 
 Obrigado!!!
-
-
